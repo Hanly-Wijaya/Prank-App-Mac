@@ -18,7 +18,7 @@ If you get an message after attempting to open the app and you are not able to o
 
 sudo chmod -R 755 (path to app) 
 
-You should be able to open the apps after the command. If not, add it as an issue on this repository or contact me at m4halgita@yahoo.com.
+You should be able to open the apps after the command. If it gives you a prompt again with a different message, open the folder of where the app is located and right click on the app then click 'Open'. If that doesn't work, add it as an issue on this repository or contact me at m4halgita@yahoo.com.
 # Extra info for Developers
 If you would like a uncompiled copy of this app, please contact me at m4halgita@yahoo.com.
 
