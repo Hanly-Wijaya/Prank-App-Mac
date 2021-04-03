@@ -1,5 +1,5 @@
 <img src="icon_256x256@2x.png" width="256"> <img src="Demo.png" width="256"> <img src="hair 3.png" width="256">
-# Prank-App-Mac
+# What is Prank?
 An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI.
 # Compatibility
 This app is only compatible with macOS Sierra and later (10.12 - 11.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and the code will never be properly compatible.
