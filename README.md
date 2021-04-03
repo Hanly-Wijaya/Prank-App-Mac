@@ -3,7 +3,7 @@ An prank app that shows a line (represents a hair / damaged display) that does n
 # Compatibility
 This app is only compatible with macOS Sierra and later (10.12 - 11.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and is a waste of time.
 # How to install 'Prank'
-Click the green button then download the file as a ZIP. Open the zip file then open the folder located in you're folder then go to the folder 'Prank (version number)' then open the app. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
+Download the [latest version of Prank] then open the zip file then move the app from the folder path to you're Applications folder.. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'. 
 # Quitting 'Prank'
 If you would like to close the app, you must go to Activity Monitor and close the app named 'Prank' or go to Terminal and type killall Prank . The app won't show up on the Dock or Force Quit App UI therefore not being able to be closed.
 # Responsibility Info
