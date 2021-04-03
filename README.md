@@ -1,6 +1,5 @@
 # Prank-App-Mac
-<img src="icon_256x256@2x.png" width="256">
-An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI. (btw, I think using this on an MacBook would definitely make more sense than a desktop)
+An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI. (btw, I think using this on an MacBook would definitely make more sense than a desktop) <img src="icon_256x256@2x.png" width="256">
 # Compatibility
 This app is only compatible with macOS Sierra and later (10.12 - 11.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and is a waste of time.
 # How to install 'Prank'
