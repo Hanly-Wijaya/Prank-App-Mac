@@ -1,4 +1,4 @@
-<img src="icon_256x256@2x.png" width="256"> <img src="Demo.png" width="528">
+<img src="icon_256x256@2x.png" width="256"> <img src="Demo.png" width="256">
 # Prank-App-Mac
 An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI.
 # Compatibility
