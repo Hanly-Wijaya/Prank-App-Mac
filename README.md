@@ -1,4 +1,4 @@
-<img src="icon_256x256@2x.png" width="256"> <img src="Demo.png" width="256"> <img src="hair 3.png" width="256">
+<img src="icon" width="256"> <img src="Demo.png" width="256"> <img src="hair 3.png" width="256">
 # What is Prank?
 An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI.
 # Compatibility
@@ -24,3 +24,4 @@ If you would like to add a request, either send it as an issue or [contact me](m
 # Changelogs
 Version 1.2: New line, removed ability to see app on Dock and Force Quit App UI.
 Version 1.2.1-alpha-v1: New app icon, fixed signing issues.
+Version 1.2.1-alpha-v2: Redesigned app icon with more finishing touches on bug and patches.
