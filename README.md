@@ -1,4 +1,4 @@
-<img src="icon" width="256"> <img src="Demo.png" width="256"> <img src="hair 3.png" width="256">
+<img src="AppIcon2.png" width="256"> <img src="Demo.png" width="256"> <img src="hair 3.png" width="256">
 # What is Prank?
 An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI.
 # Compatibility
