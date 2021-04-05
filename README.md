@@ -4,7 +4,7 @@ An prank app that shows a line (represents a hair / damaged display) that does n
 # Compatibility
 This app is only compatible with macOS Sierra and later (10.12 - 11.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and the code will never be properly compatible.
 # How to install 'Prank'
-Download the latest [latest release of Prank](https://github.com/Hanly-Wijaya/Prank-App-Mac/releases/tag/1.2.0) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with the line. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
+Download the [latest release of Prank](https://github.com/Hanly-Wijaya/Prank-App-Mac/releases/tag/1.2.0) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with the line. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
 # Signing Issues
 If you get an message after attempting to open the app and you are not able to open the app, use the command in the Terminal app below without ) or (.
 
