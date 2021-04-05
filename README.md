@@ -25,3 +25,4 @@ If you would like to add a request, either send it as an issue or [contact me](m
 Version 1.2: New line, removed ability to see app on Dock and Force Quit App UI.
 Version 1.2.1-alpha-v1: New app icon, fixed signing issues.
 Version 1.2.1-alpha-v2: Redesigned app icon with more finishing touches on bug and patches.
+Version 1.2.1: New app icon, fixed signing issues along with bugs & patches.
