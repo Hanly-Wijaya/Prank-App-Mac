@@ -2,7 +2,7 @@
 # What is Prank?
 An prank app that shows a line (represents a hair / damaged display) that does not show up on Dock.app or Force Quit App UI.
 # Compatibility
-This app is only compatible with macOS Sierra and later (10.12 - 11.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and the code will never be properly compatible.
+This app is only compatible with macOS Sierra and later (10.12 - 12.0). Do not request for compatibility with El Capitan and earlier as the app will not work properly and the code will never be properly compatible.
 # How to install 'Prank'
 Download the [latest release of Prank](https://github.com/Hanly-Wijaya/Prank-App-Mac/releases/tag/1.2.0) then open the zip file then move the app from the folder path to you're Applications folder. After moving the app, you can open the app and be greeted with the line. If a message for example, 'App is by an unidentified developer' or 'Cannot open this app', follow the steps in 'Signing Issues'.
 # Signing Issues
